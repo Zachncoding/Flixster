@@ -56,8 +56,7 @@ While building the app I had trouble figuring out how to get the landscape orent
 ### App Walkthough GIF
 ![flixtergifpt2](https://user-images.githubusercontent.com/89486545/144298880-1a8bb9f0-9b09-4fa6-b0b0-a466b57739ad.gif)
 
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+GIPHY CAPTURE
 
 ### Notes
 
